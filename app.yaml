@@ -4,4 +4,4 @@ threadsafe: true
 
 handlers:
 - url: /.*
-  script: ToDoList.app
+  script: main.app
